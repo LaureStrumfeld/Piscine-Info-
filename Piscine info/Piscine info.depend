@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522755751 source:c:\users\ls161871\documents\github\piscine-info-\piscine info\main.cpp
+	<iostream>
+	"AnimalAntarctic.h"
+	"AnimalSavane.h"
+	"AnimalOcean.h"
+
+1522763087 c:\users\ls161871\documents\github\piscine-info-\piscine info\include\animalantarctic.h
+	"string"
+	<iostream>
+
+1522763087 c:\users\ls161871\documents\github\piscine-info-\piscine info\include\animalsavane.h
+	"string"
+
+1522763087 c:\users\ls161871\documents\github\piscine-info-\piscine info\include\animalocean.h
+	"string"
+
